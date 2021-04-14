@@ -1,0 +1,50 @@
+<lexicon version="1.0" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" alphabet="x-microsoft-sapi" xml:lang="en-US">
+<lexeme>
+<grapheme>dongchujun</grapheme>
+<alias>D C J</alias>
+</lexeme>
+<lexeme>
+<grapheme>BTW</grapheme>
+<alias>By the way</alias>
+</lexeme>
+<lexeme>
+<grapheme>cxone</grapheme>
+<phoneme> s iy - ae k s - w ah n </phoneme>
+</lexeme>
+<lexeme>
+<grapheme>CXone</grapheme>
+<phoneme> s iy - ae k s - w ah n </phoneme>
+</lexeme>
+<lexeme>
+<grapheme>RTI</grapheme>
+<alias>R T I</alias>
+</lexeme>
+<lexeme>
+<grapheme>NICE</grapheme>
+<alias>nice</alias>
+</lexeme>
+<lexeme>
+<grapheme>7.4</grapheme>
+<alias>seven dot four</alias>
+</lexeme>
+<lexeme>
+<grapheme>SIP</grapheme>
+<alias>seep</alias>
+</lexeme>
+<lexeme>
+<grapheme>BOE</grapheme>
+<alias>B O E</alias>
+</lexeme>
+<lexeme>
+<grapheme>Redis</grapheme>
+<alias>Raydis</alias>
+</lexeme>
+<lexeme>
+<grapheme>GW</grapheme>
+<alias>Gateway</alias>
+</lexeme>
+<lexeme>
+<grapheme>JSON</grapheme>
+<alias>jay son</alias>
+</lexeme>
+</lexicon>
